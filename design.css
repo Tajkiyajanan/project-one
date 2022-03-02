@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+}
+.display-flex{
+    display: flex;
+    margin-top: 8%;
+}
+h1{
+    font-size: 30px;
+}
+.brown-color{
+    color: brown;
+}
+.partial-width{
+    width: 100%;
+}
+.partial-width img{
+    width: 40%;
+    margin-left: 40%;
+}
+.border-side{
+    border-left: 5px solid;
+    border-color: brown;
+    padding-left: 5%;
+}
+.sec-section-header{
+    text-align: center;
+}
+.card-1{
+    border-radius: 30px;
+    background-color: lightblue;
+    padding: 5%;
+}
+img{
+    width: 200px;
+}
+.card-2{
+    border-radius: 30px;
+    background-color: lightcoral;
+    padding: 5%;
+}
+img{
+    width: 200px;
+}
+.card-3{
+    border-radius: 30px;
+    background-color: lightgoldenrodyellow;
+    padding: 5%;
+}
+img{
+    width: 200px;
+}
+.card-display{
+    display: flex;
+    gap: 30px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.partial-width-two img{
+    width: 70%;
+}
+.text-width{
+    margin-top: 5%;
+}
+.partial-width-three img{
+    width: 70%;
+    margin-left: 30%;
+}
+footer{
+    text-align: center;
+    margin-top: 10%;
+    padding: 5%;
+    color: white;
+    background-color: black;
+}
